@@ -1,0 +1,13 @@
+Date(mm/dd/yyyy),In/Out,USD Transaction,USD Cash Balance (LAG SUM=Previous D cell + Currrent C cell),Comments
+1/1/2026,Existing,10,10,DO NOT ADD IN TOTAL AS IT ONLY HAS DEPOSITED
+4/2/2026,In,1,11,RSU Sell Balance
+4/3/2026,Out,-10,1,RSU Sell Balance to Intel
+6/2/2026,In,33,34,RSU Sell Balance
+5/3/2026,Out,-32.1,1.9,RSU Sell Balance to Intel
+9/2/2026,In,23.56,25.46,RSU Sell Balance
+9/2/2026,In,99.99,125.45,RSU Sell Balance
+9/3/2026,Out,-9.9,115.55,RSU Sell Balance to Intel
+9/3/2026,Out,-12.33,103.22,RSU Sell Balance to Intel
+9/3/2026,Out,-23.77,79.45,RSU Sell Balance to Intel
+9/3/2026,Out,-11,68.45,RSU Sell Balance to Intel
+9/21/2026,Out,-68.45,0,Wired Out
